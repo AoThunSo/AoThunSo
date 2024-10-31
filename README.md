@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @HUNGPHAM
+- 👋 Hi, I’m @AothunsoVn
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ABC
-- 📫 How to reach me HUNGPHAM
-- 😄 Pronouns: H
+- 📫 How to reach me Aothunso
+- 😄 Pronouns: A
 - ⚡ Fun fact: Love
 - Love so much!
 <!---
